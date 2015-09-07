@@ -411,6 +411,7 @@
 				D158E57C1B9D22CE00AFF90C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D158E57D1B9D22CE00AFF90C /* Build configuration list for PBXNativeTarget "tipsCalculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +420,7 @@
 				D158E57F1B9D22CE00AFF90C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
